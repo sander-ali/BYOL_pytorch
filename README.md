@@ -6,6 +6,6 @@ The data is trained on STL10 dataset.
 
 Make sure to install the following packages before running the code:
 
-kornia
-pytorch_lightning
+kornia  
+pytorch_lightning  
 torch
